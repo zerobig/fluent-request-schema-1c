@@ -2,27 +2,27 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
 		<Metadata name="CommonModule.СЗ_Запрос" id="5f1605a0-4e63-4339-b2cc-44e115be6ed7" configVersion="e2743c37ca1c317bbd7deb62473bdb9c92ce4b3b"/>
-		<Metadata name="CommonModule.СЗ_Запрос.Module" id="5f1605a0-4e63-4339-b2cc-44e115be6ed7.0" configVersion="70b897dad9d758e331d5d898768fe0344077916d"/>
+		<Metadata name="CommonModule.СЗ_Запрос.Module" id="5f1605a0-4e63-4339-b2cc-44e115be6ed7.0" configVersion="d363706995caee773e263676bf19bb94752dc39f"/>
 		<Metadata name="CommonModule.СЗ_ЗапросТест" id="52ab0c6f-4fa1-4913-b37e-460ab1e44314" configVersion="01955255914f2f02da26b7a05ec1ffe713f168e1"/>
-		<Metadata name="CommonModule.СЗ_ЗапросТест.Module" id="52ab0c6f-4fa1-4913-b37e-460ab1e44314.0" configVersion="ac93509d47d7c7ed87c457d0b9a528fd264ac3d6"/>
+		<Metadata name="CommonModule.СЗ_ЗапросТест.Module" id="52ab0c6f-4fa1-4913-b37e-460ab1e44314.0" configVersion="e01507b866be5877c179fc7492978df4d4ff32a9"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовКлиентСервер" id="407489b2-2f4b-467b-9594-621de146e468" configVersion="d0e776fe2161eadb117e389e6d86e40d8f7927fc"/>
-		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовКлиентСервер.Module" id="407489b2-2f4b-467b-9594-621de146e468.0" configVersion="a3fd675572299afe5f63b59eef575cff639c35e7"/>
+		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовКлиентСервер.Module" id="407489b2-2f4b-467b-9594-621de146e468.0" configVersion="5225b43bbbdff284025f2f66eead464164913ce3"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовСлужебныйКлиентСервер" id="19b0625e-9f74-4fba-9350-914066ae1034" configVersion="97824f99f8fe96dacf2d8271e35b6b11a89a7f4f"/>
-		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовСлужебныйКлиентСервер.Module" id="19b0625e-9f74-4fba-9350-914066ae1034.0" configVersion="dbadb525d8fa291f91fab2a1d85bd78062f506d0"/>
+		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовСлужебныйКлиентСервер.Module" id="19b0625e-9f74-4fba-9350-914066ae1034.0" configVersion="8f088e85eb41587c6d8e5d636715da6b36b1c55c"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаКлиентСервер" id="a3e5bf50-2154-477f-9355-29b0930a73c5" configVersion="0a1d47680d6c53bcec9c7b566903a863ce26bf77"/>
-		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаКлиентСервер.Module" id="a3e5bf50-2154-477f-9355-29b0930a73c5.0" configVersion="e4516fad653b42c44367545d251e48696271a349"/>
+		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаКлиентСервер.Module" id="a3e5bf50-2154-477f-9355-29b0930a73c5.0" configVersion="b1eaa827c1ba5ed23485c25f1f8059302b29d7ab"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебный" id="fd5aeea0-9a03-452d-ba1e-81c816846c6c" configVersion="77f2ed6a2d9924e64f836b9a16c0664b4a5a38e8"/>
-		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебный.Module" id="fd5aeea0-9a03-452d-ba1e-81c816846c6c.0" configVersion="b2fd5df72dfca291c7c509e19004d8a7117e0092"/>
+		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебный.Module" id="fd5aeea0-9a03-452d-ba1e-81c816846c6c.0" configVersion="956653c1f0839722a63c1926510b83a2ea00f404"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйВызовСервера" id="64cc4f13-8ea3-43e0-b530-031a569bfcd0" configVersion="de76e252360ff40f9368c1eec2d95d3aa03b14e7"/>
-		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйВызовСервера.Module" id="64cc4f13-8ea3-43e0-b530-031a569bfcd0.0" configVersion="f671df996460f1b0acc9ed4c7e27af2f5dbb660f"/>
+		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйВызовСервера.Module" id="64cc4f13-8ea3-43e0-b530-031a569bfcd0.0" configVersion="752fd44122410e7ffec362eada399aa15f373320"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйКлиентСервер" id="a7341127-4ed0-44b9-b3b2-007ae8f263dc" configVersion="8a27beba3300dacb51abfc0f6b4c8711bb7b0b06"/>
-		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйКлиентСервер.Module" id="a7341127-4ed0-44b9-b3b2-007ae8f263dc.0" configVersion="c0c07db62eb444934fc2a9860ec61233a2e25af4"/>
-		<Metadata name="Configuration.СхемаЗапроса" id="727bc241-bb6d-418f-b908-1102fbf1bc00" configVersion="32358f5e6e55bc199dcbf146a39e01e89463a7e7"/>
+		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйКлиентСервер.Module" id="a7341127-4ed0-44b9-b3b2-007ae8f263dc.0" configVersion="d0387c7b5336dbc7198ec45de395fccffdefdf24"/>
+		<Metadata name="Configuration.СхемаЗапроса" id="727bc241-bb6d-418f-b908-1102fbf1bc00" configVersion="476639b5682c7cff886d38560b6748068aa0929c"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорПредикатов" id="12d6eb41-70d9-4802-8fde-b6464e23bf0b" configVersion="7bd25841e01d3196cd731359775f0af93ddbd0d1"/>
-		<Metadata name="DataProcessor.СЗ_ПроцессорПредикатов.ObjectModule" id="12d6eb41-70d9-4802-8fde-b6464e23bf0b.0" configVersion="7bf55d840fc4752caaf882cc4bac5e7fa7300863"/>
+		<Metadata name="DataProcessor.СЗ_ПроцессорПредикатов.ObjectModule" id="12d6eb41-70d9-4802-8fde-b6464e23bf0b.0" configVersion="15317ad0c43387f27682f578d5dde85d10765509"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса" id="7008c53a-3e8a-4432-bff6-500c4145bab5" configVersion="dd57e1686ab74914b294900633b6e9245facc435"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса.Form.Форма" id="04cd8a25-c99d-4da9-ac0f-5703574d079f" configVersion="f910d6e757792c7cdd2137a7213495bba1da1300"/>
-		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса.Form.Форма.Form" id="04cd8a25-c99d-4da9-ac0f-5703574d079f.0" configVersion="bae96f2ab9ea2a272936072451369a2851dc377f"/>
-		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса.ObjectModule" id="7008c53a-3e8a-4432-bff6-500c4145bab5.0" configVersion="a7e021d94dee3eede73d29ab27db5114ad695467"/>
+		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса.Form.Форма.Form" id="04cd8a25-c99d-4da9-ac0f-5703574d079f.0" configVersion="d88eaff63e6be43cc7189ed79c45ec45ccb8b4fe"/>
+		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса.ObjectModule" id="7008c53a-3e8a-4432-bff6-500c4145bab5.0" configVersion="189b1420fe62bab13bed84fffb272c15dc8a95d6"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
