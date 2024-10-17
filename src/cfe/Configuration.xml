@@ -44,7 +44,7 @@
 			<ConfigurationExtensionPurpose>AddOn</ConfigurationExtensionPurpose>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
 			<NamePrefix>СЗ_</NamePrefix>
-			<ConfigurationExtensionCompatibilityMode>Version8_3_24</ConfigurationExtensionCompatibilityMode>
+			<ConfigurationExtensionCompatibilityMode>Version8_3_9</ConfigurationExtensionCompatibilityMode>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
 			<Version>0.0.1</Version>
@@ -56,6 +56,7 @@
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
 		</Properties>
 		<ChildObjects>
+			<Subsystem>СЗ_Основная</Subsystem>
 			<CommonModule>СЗ_Запрос</CommonModule>
 			<CommonModule>СЗ_ЗапросТест</CommonModule>
 			<CommonModule>СЗ_ПроцессорыПредикатовКлиентСервер</CommonModule>
