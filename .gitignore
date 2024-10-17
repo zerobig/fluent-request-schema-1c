@@ -1,0 +1,4 @@
+*.log
+
+# compiled output
+dist

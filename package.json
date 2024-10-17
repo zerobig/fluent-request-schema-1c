@@ -1,10 +1,11 @@
 {
   "name": "fluent-request-schema-1c",
   "version": "0.0.1",
-  "license": "MIT",
   "scripts": {
-    "build": "",
-    "build:config": "",
-    "build:extension": "cd scripts && ext2cfe.cmd ../src ../dist/request_schema.cfe СхемаЗапроса"
-  }
+    "build": "npm run build:config && npm run build:extension",
+    "build:config": "cd scripts ",
+    "build:extension": "cd scripts && ext2cfe.cmd ../src/cfe ../dist/request_schema.cfe СхемаЗапроса"
+  },
+  "author": "Bushin Ilya",
+  "license": "MIT"
 }
