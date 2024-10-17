@@ -27,9 +27,9 @@ jobs:
         run: java -jar ./bsldoc.jar ./../src/cfe ./api -f Docusaurus -s СЗ_Запрос
 
       - name: Установка NodeJS
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 18
           cache: yarn
           cache-dependency-path: 'docs/yarn.lock'
 
