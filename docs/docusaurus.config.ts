@@ -99,10 +99,6 @@ const config: Config = {
               label: 'Начало',
               to: '/docs/getting-started',
             },
-            {
-              label: 'API',
-              to: '/docs/api',
-            },
           ],
         },
         {
