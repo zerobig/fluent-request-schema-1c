@@ -73,7 +73,7 @@ const config: Config = {
           type: 'doc',
           docId: 'getting-started/index',
           position: 'left',
-          label: 'Начало',
+          label: 'Начало работы',
         },
         {
           type: 'docSidebar',
