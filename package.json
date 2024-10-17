@@ -1,0 +1,10 @@
+{
+  "name": "fluent-request-schema-1c",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "build": "",
+    "build:config": "",
+    "build:extension": "cd scripts && ext2cfe.cmd ../src ../dist/request_schema.cfe СхемаЗапроса"
+  }
+}
