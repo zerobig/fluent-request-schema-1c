@@ -1,5 +1,7 @@
 # 1С Предприятие. Fluent запросы
 
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/6/874099701.json)](https://openyellow.org/grid?data=top&repo=874099701)
+
 ## Мотивация
 
 Смотрел я на запросы в 1С, потом смотрел на то как народ создаёт библиотеки с API в "текучем" стиле. И решил это совместить. Ведь есть же такой замечательный продукт от Microsoft - [Linq](https://learn.microsoft.com/ru-ru/dotnet/csharp/linq/standard-query-operators/)! Сначала подумал что буду первопроходцем. Но оказывается всё уже придумано до нас: [Раз](https://github.com/KalyakinAG/query-model), [Два](https://infostart.ru/1c/articles/1991009/). Может быть ещё что есть, а я не нашел.
