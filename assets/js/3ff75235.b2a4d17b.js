@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[972],{7912:s=>{s.exports=JSON.parse('{"tags":[{"label":"\u041d\u0430\u0447\u0430\u043b\u043e","permalink":"/fluent-request-schema-1c/docs/tags/\u043d\u0430\u0447\u0430\u043b\u043e","count":6}]}')}}]);
