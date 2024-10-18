@@ -56,7 +56,9 @@
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
 		</Properties>
 		<ChildObjects>
+			<Language>Русский</Language>
 			<Subsystem>СЗ_Основная</Subsystem>
+			<Subsystem>СЗ_Тестирование</Subsystem>
 			<CommonModule>СЗ_Запрос</CommonModule>
 			<CommonModule>СЗ_ЗапросТест</CommonModule>
 			<CommonModule>СЗ_ПроцессорыПредикатовКлиентСервер</CommonModule>

@@ -6,7 +6,7 @@
 		<Metadata name="CommonModule.СЗ_ЗапросТест" id="52ab0c6f-4fa1-4913-b37e-460ab1e44314" configVersion="01955255914f2f02da26b7a05ec1ffe713f168e1"/>
 		<Metadata name="CommonModule.СЗ_ЗапросТест.Module" id="52ab0c6f-4fa1-4913-b37e-460ab1e44314.0" configVersion="e01507b866be5877c179fc7492978df4d4ff32a9"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовКлиентСервер" id="407489b2-2f4b-467b-9594-621de146e468" configVersion="d0e776fe2161eadb117e389e6d86e40d8f7927fc"/>
-		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовКлиентСервер.Module" id="407489b2-2f4b-467b-9594-621de146e468.0" configVersion="e7c54a2eeaec683d39386f7a914f0bf9af067e7e"/>
+		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовКлиентСервер.Module" id="407489b2-2f4b-467b-9594-621de146e468.0" configVersion="8d4ffc954b0bc188876d3724855a68e077214150"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовСлужебныйКлиентСервер" id="19b0625e-9f74-4fba-9350-914066ae1034" configVersion="97824f99f8fe96dacf2d8271e35b6b11a89a7f4f"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыПредикатовСлужебныйКлиентСервер.Module" id="19b0625e-9f74-4fba-9350-914066ae1034.0" configVersion="db9be1a11cf6397ebe0c0eb45a43b30d365b5175"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаКлиентСервер" id="a3e5bf50-2154-477f-9355-29b0930a73c5" configVersion="0a1d47680d6c53bcec9c7b566903a863ce26bf77"/>
@@ -16,14 +16,16 @@
 		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйВызовСервера" id="64cc4f13-8ea3-43e0-b530-031a569bfcd0" configVersion="de76e252360ff40f9368c1eec2d95d3aa03b14e7"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйВызовСервера.Module" id="64cc4f13-8ea3-43e0-b530-031a569bfcd0.0" configVersion="752fd44122410e7ffec362eada399aa15f373320"/>
 		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйКлиентСервер" id="a7341127-4ed0-44b9-b3b2-007ae8f263dc" configVersion="8a27beba3300dacb51abfc0f6b4c8711bb7b0b06"/>
-		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйКлиентСервер.Module" id="a7341127-4ed0-44b9-b3b2-007ae8f263dc.0" configVersion="d0387c7b5336dbc7198ec45de395fccffdefdf24"/>
-		<Metadata name="Configuration.СхемаЗапроса" id="727bc241-bb6d-418f-b908-1102fbf1bc00" configVersion="3acad3ce0cadca7c0b54487fd8386c7c073011d5"/>
+		<Metadata name="CommonModule.СЗ_ПроцессорыСхемЗапросаСлужебныйКлиентСервер.Module" id="a7341127-4ed0-44b9-b3b2-007ae8f263dc.0" configVersion="28c172f3ac8f1afd92fac530a69c476e9d5a1042"/>
+		<Metadata name="Configuration.СхемаЗапроса" id="727bc241-bb6d-418f-b908-1102fbf1bc00" configVersion="bba53b68f1f68d6dbed8515d6ffcf68f624c5512"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорПредикатов" id="12d6eb41-70d9-4802-8fde-b6464e23bf0b" configVersion="7bd25841e01d3196cd731359775f0af93ddbd0d1"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорПредикатов.ObjectModule" id="12d6eb41-70d9-4802-8fde-b6464e23bf0b.0" configVersion="15317ad0c43387f27682f578d5dde85d10765509"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса" id="7008c53a-3e8a-4432-bff6-500c4145bab5" configVersion="dd57e1686ab74914b294900633b6e9245facc435"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса.Form.Форма" id="04cd8a25-c99d-4da9-ac0f-5703574d079f" configVersion="f910d6e757792c7cdd2137a7213495bba1da1300"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса.Form.Форма.Form" id="04cd8a25-c99d-4da9-ac0f-5703574d079f.0" configVersion="d88eaff63e6be43cc7189ed79c45ec45ccb8b4fe"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса.ObjectModule" id="7008c53a-3e8a-4432-bff6-500c4145bab5.0" configVersion="189b1420fe62bab13bed84fffb272c15dc8a95d6"/>
-		<Metadata name="Subsystem.СЗ_Основная" id="a09dece7-9d83-44cb-8463-270875de13d2" configVersion="8bdbeb33e27c3fddf77bae1a24b21984da433e1a"/>
+		<Metadata name="Language.Русский" id="390892dc-e75e-45a4-b708-a02f7f2dee5a" configVersion="4b0921980daebbc67baba5ea2548ac0cf344cd6a"/>
+		<Metadata name="Subsystem.СЗ_Основная" id="a09dece7-9d83-44cb-8463-270875de13d2" configVersion="40067e460630484771df8a6688e0934d2359bcca"/>
+		<Metadata name="Subsystem.СЗ_Тестирование" id="7f3d60db-f984-4399-8d25-86d89b3d3c96" configVersion="504297decc442197b0fdfb5e0c7f8efa146308ef"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
