@@ -103,7 +103,7 @@
 
 ## Документация
 
-Документация находится по [адресу](https://zerobig.github.io/fluent-request-schema-1c/). Наполнение продолжается.
+Документация находится по адресу [https://zerobig.github.io/fluent-request-schema-1c/](https://zerobig.github.io/fluent-request-schema-1c/). Наполнение продолжается.
 
 ## Как запустить
 
