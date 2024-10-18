@@ -22,7 +22,7 @@
 		<Metadata name="Configuration.СхемаЗапроса" id="727bc241-bb6d-418f-b908-1102fbf1bc00" configVersion="79e1b3e044e48c8e3b51f6ff65fbaf287f7f9748"/>
 		<Metadata name="DataProcessor.СЗ_КонсольФункциональныхЗапросов" id="67397753-24bc-416c-9dc1-5fe9545ad4b2" configVersion="171dea8f1f823da789fdb06cae08e40365231b49"/>
 		<Metadata name="DataProcessor.СЗ_КонсольФункциональныхЗапросов.Form.Форма" id="1f613bcb-34f1-4755-8c5b-734e99a89a03" configVersion="aedcf955fb9b922c1fd72335bb59d9b931015e58"/>
-		<Metadata name="DataProcessor.СЗ_КонсольФункциональныхЗапросов.Form.Форма.Form" id="1f613bcb-34f1-4755-8c5b-734e99a89a03.0" configVersion="61ce0b0c0a7e83af8da43519979951ef98d1755f"/>
+		<Metadata name="DataProcessor.СЗ_КонсольФункциональныхЗапросов.Form.Форма.Form" id="1f613bcb-34f1-4755-8c5b-734e99a89a03.0" configVersion="4a0b99c82226bbd95409142cc4e26ce43de94704"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорПредикатов" id="12d6eb41-70d9-4802-8fde-b6464e23bf0b" configVersion="7bd25841e01d3196cd731359775f0af93ddbd0d1"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорПредикатов.ObjectModule" id="12d6eb41-70d9-4802-8fde-b6464e23bf0b.0" configVersion="551823204b98bb4aee0bbb389521536084a1fe26"/>
 		<Metadata name="DataProcessor.СЗ_ПроцессорСхемЗапроса" id="7008c53a-3e8a-4432-bff6-500c4145bab5" configVersion="dd57e1686ab74914b294900633b6e9245facc435"/>
