@@ -1,4 +1,4 @@
 ---
-sidebar_label: Функцонал
+sidebar_label: Функционал
 sidebar_position: 1
 ---
