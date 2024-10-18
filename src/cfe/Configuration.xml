@@ -59,6 +59,8 @@
 			<Language>Русский</Language>
 			<Subsystem>СЗ_Основная</Subsystem>
 			<Subsystem>СЗ_Тестирование</Subsystem>
+			<Subsystem>СЗ_Обработки</Subsystem>
+			<CommonPicture>СЗ_Логотип</CommonPicture>
 			<CommonModule>СЗ_Запрос</CommonModule>
 			<CommonModule>СЗ_ЗапросТест</CommonModule>
 			<CommonModule>СЗ_ПроцессорыПредикатовКлиентСервер</CommonModule>
@@ -67,6 +69,7 @@
 			<CommonModule>СЗ_ПроцессорыСхемЗапросаСлужебный</CommonModule>
 			<CommonModule>СЗ_ПроцессорыСхемЗапросаСлужебныйВызовСервера</CommonModule>
 			<CommonModule>СЗ_ПроцессорыСхемЗапросаСлужебныйКлиентСервер</CommonModule>
+			<DataProcessor>СЗ_КонсольФункциональныхЗапросов</DataProcessor>
 			<DataProcessor>СЗ_ПроцессорПредикатов</DataProcessor>
 			<DataProcessor>СЗ_ПроцессорСхемЗапроса</DataProcessor>
 		</ChildObjects>
