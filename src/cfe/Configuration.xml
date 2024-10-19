@@ -63,6 +63,8 @@
 			<CommonPicture>СЗ_Логотип</CommonPicture>
 			<CommonModule>СЗ_Запрос</CommonModule>
 			<CommonModule>СЗ_ЗапросТест</CommonModule>
+			<CommonModule>СЗ_ЗапросТестКлиент</CommonModule>
+			<CommonModule>СЗ_ЗапросТестСлужебныйВызовСервера</CommonModule>
 			<CommonModule>СЗ_ПроцессорыПредикатовКлиентСервер</CommonModule>
 			<CommonModule>СЗ_ПроцессорыПредикатовСлужебныйКлиентСервер</CommonModule>
 			<CommonModule>СЗ_ПроцессорыСхемЗапросаКлиентСервер</CommonModule>
