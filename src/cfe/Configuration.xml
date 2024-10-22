@@ -43,11 +43,11 @@
 			<Comment/>
 			<ConfigurationExtensionPurpose>AddOn</ConfigurationExtensionPurpose>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
-			<NamePrefix>СЗ_</NamePrefix>
+			<NamePrefix>Сх</NamePrefix>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_9</ConfigurationExtensionCompatibilityMode>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version>0.0.2</Version>
+			<Version>0.0.3</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -57,23 +57,24 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>СЗ_Основная</Subsystem>
-			<Subsystem>СЗ_Тестирование</Subsystem>
-			<Subsystem>СЗ_Обработки</Subsystem>
+			<Subsystem>СхОсновная</Subsystem>
+			<Subsystem>СхТестирование</Subsystem>
+			<Subsystem>СхОбработки</Subsystem>
 			<CommonPicture>СЗ_Логотип</CommonPicture>
-			<CommonModule>СЗ_Запрос</CommonModule>
-			<CommonModule>СЗ_ЗапросТест</CommonModule>
-			<CommonModule>СЗ_ЗапросТестКлиент</CommonModule>
-			<CommonModule>СЗ_ЗапросТестСлужебныйВызовСервера</CommonModule>
-			<CommonModule>СЗ_ПроцессорыПредикатовКлиентСервер</CommonModule>
-			<CommonModule>СЗ_ПроцессорыПредикатовСлужебныйКлиентСервер</CommonModule>
-			<CommonModule>СЗ_ПроцессорыСхемЗапросаКлиентСервер</CommonModule>
-			<CommonModule>СЗ_ПроцессорыСхемЗапросаСлужебный</CommonModule>
-			<CommonModule>СЗ_ПроцессорыСхемЗапросаСлужебныйВызовСервера</CommonModule>
-			<CommonModule>СЗ_ПроцессорыСхемЗапросаСлужебныйКлиентСервер</CommonModule>
-			<DataProcessor>СЗ_КонсольФункциональныхЗапросов</DataProcessor>
-			<DataProcessor>СЗ_ПроцессорПредикатов</DataProcessor>
-			<DataProcessor>СЗ_ПроцессорСхемЗапроса</DataProcessor>
+			<CommonModule>СхЗапрос</CommonModule>
+			<CommonModule>СхЗапросТест</CommonModule>
+			<CommonModule>СхЗапросТестКлиент</CommonModule>
+			<CommonModule>СхЗапросТестСлужебныйВызовСервера</CommonModule>
+			<CommonModule>СхОбщегоНазначенийКлиентСервер</CommonModule>
+			<CommonModule>СхПроцессорыПредикатовКлиентСервер</CommonModule>
+			<CommonModule>СхПроцессорыПредикатовСлужебныйКлиентСервер</CommonModule>
+			<CommonModule>СхПроцессорыСхемЗапросаКлиентСервер</CommonModule>
+			<CommonModule>СхПроцессорыСхемЗапросаСлужебный</CommonModule>
+			<CommonModule>СхПроцессорыСхемЗапросаСлужебныйВызовСервера</CommonModule>
+			<CommonModule>СхПроцессорыСхемЗапросаСлужебныйКлиентСервер</CommonModule>
+			<DataProcessor>СхКонсольФункциональныхЗапросов</DataProcessor>
+			<DataProcessor>СхПроцессорПредикатов</DataProcessor>
+			<DataProcessor>СхПроцессорСхемЗапроса</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
