@@ -1,6 +1,6 @@
 {
   "name": "fluent-request-schema-1c",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
     "build": "npm run build:config && npm run build:extension",
     "build:config": "cd scripts ",
