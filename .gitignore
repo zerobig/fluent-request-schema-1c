@@ -1,5 +1,6 @@
 *.log
 *.ConfigDumpInfo.xml
+*.env
 
 # compiled output
 dist
